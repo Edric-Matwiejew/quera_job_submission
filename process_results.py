@@ -2,7 +2,7 @@ import json
 import matplotlib.pyplot as plt
 from collections import Counter
 
-results_path="/Users/mat344/Downloads/5003-2617153582.json"
+results_path="#############"
 
 with open(results_path, 'r') as json_file:
     results = json.load(json_file)
