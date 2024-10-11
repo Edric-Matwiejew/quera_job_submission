@@ -20,7 +20,6 @@ There is a large amount of material on Aquila. We recommend reading the followin
   * [https://www.nature.com/articles/nature24622]
 * Mark Saffman reviews:
   * [https://arxiv.org/abs/1605.05207]
-  * [https://arxiv.org/abs/1605.05207]
 * Quantum phases of matter:
   * [https://arxiv.org/abs/2012.12281]
 * Maximum independent set with Rydberg atoms:
