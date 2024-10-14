@@ -32,7 +32,7 @@ results_path="#############"
 desired_pre_sequence = [1,1]
 with open(results_path, 'r') as json_file:
     results = json.load(json_file)
-    post_selected_results = FilterPostSequence(results, desired_pre_sequence])
+    post_selected_results = FilterPostSequence(results, desired_pre_sequence)
     print(f'{len(post_selected_results)} of {len(results["shot_outputs"])} shots post-selected.')
 
 # plot results 
